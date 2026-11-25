@@ -1,2 +1,1 @@
-# FreeboClip
-FreeboClip is a free open source clipping software.
+#R6 Style Recon Drone
